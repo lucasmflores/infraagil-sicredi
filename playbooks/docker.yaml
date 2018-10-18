@@ -1,0 +1,5 @@
+---
+- name: chamando role para instalacao do docker
+  hosts: docker
+  roles:
+   - docker

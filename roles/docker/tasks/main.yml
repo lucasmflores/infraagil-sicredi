@@ -1,0 +1,4 @@
+---
+# tasks file for docker
+- name: instala o docker
+  include: install.yaml
